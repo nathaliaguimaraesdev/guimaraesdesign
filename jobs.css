@@ -1,0 +1,41 @@
+.section-job {
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    height: 60vw;
+    
+    
+}
+
+.imgjob {
+    display: inline-block;
+    width: 25vw;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.button {
+    margin-top: 30px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    background-color: #333333;
+    border: none;
+}
+
+.jobscenter {
+    margin-top: 5%;
+    
+}
+
+.imgjob:hover {
+    transform: scale(1.1) 
+}
+
+
+@media screen and (max-width: 470px) {
+    .imgjob {
+        width: 35vw;
+    }
+ }

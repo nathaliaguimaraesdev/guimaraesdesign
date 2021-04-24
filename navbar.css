@@ -1,0 +1,43 @@
+.nav {
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+    
+}
+    
+.logotipo {
+    font-family: 'Satisfy', cursive; 
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.item {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a:link 
+{  text-decoration:none; 
+    color: white;
+} 
+
+a:visited {
+    color: white;
+}
+
+
+@media screen and (max-width: 487px) {
+    .logotipo {
+        font-size: 20px;
+    }
+    .item {
+        display: inline-block;
+        margin-right: 20px;
+        font-size: 15px;
+    }
+   
+}
+
