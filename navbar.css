@@ -6,12 +6,10 @@
 }
     
 .logotipo {
-    font-family: 'Satisfy', cursive; 
+    height: 40px;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: 20px;
-    color: white;
-    font-size: 30px;
 }
 
 .item {
