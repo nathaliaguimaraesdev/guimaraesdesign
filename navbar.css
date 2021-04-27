@@ -31,6 +31,9 @@ a {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
+a:hover {
+    color: #e4c2c1;
+}
 
 @media screen and (max-width: 487px) {
     .logotipo {
