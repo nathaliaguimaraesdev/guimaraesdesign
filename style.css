@@ -97,3 +97,10 @@ button.button {
     color: white;
     font-size: 10px;
 }
+
+@media screen and (max-width: 487px) {
+    .about {
+        background-image: url('imagens/background2.jpg');
+        background-repeat: no-repeat;
+    }
+}
