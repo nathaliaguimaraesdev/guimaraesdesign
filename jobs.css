@@ -3,8 +3,6 @@
     text-align: center;
     padding-top: 10px;
     height: 60vw;
-    
-    
 }
 
 
@@ -33,6 +31,10 @@
 
 .imgjob:hover {
     transform: scale(1.1) 
+}
+
+.fontjobs {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
 
